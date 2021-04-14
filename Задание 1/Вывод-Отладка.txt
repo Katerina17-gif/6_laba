@@ -1,0 +1,19 @@
+﻿"Задание 1.exe" (Win32). Загружено "F:\C++\Програмирование второй семестр\ВП\Лабораторная работа 6\Задание 1\Debug\Задание 1.exe". Символы загружены.
+"Задание 1.exe" (Win32). Загружено "C:\Windows\SysWOW64\ntdll.dll". 
+"Задание 1.exe" (Win32). Загружено "C:\Windows\SysWOW64\kernel32.dll". 
+"Задание 1.exe" (Win32). Загружено "C:\Windows\SysWOW64\KernelBase.dll". 
+"Задание 1.exe" (Win32). Загружено "C:\Windows\SysWOW64\msvcp140d.dll". 
+"Задание 1.exe" (Win32). Загружено "C:\Windows\SysWOW64\vcruntime140d.dll". 
+"Задание 1.exe" (Win32). Загружено "C:\Windows\SysWOW64\ucrtbased.dll". 
+Поток 0x2148 завершился с кодом 0 (0x0).
+"Задание 1.exe" (Win32). Загружено "C:\Windows\SysWOW64\kernel.appcore.dll". 
+"Задание 1.exe" (Win32). Загружено "C:\Windows\SysWOW64\msvcrt.dll". 
+"Задание 1.exe" (Win32). Загружено "C:\Windows\SysWOW64\rpcrt4.dll". 
+"Задание 1.exe" (Win32). Загружено "C:\Windows\SysWOW64\sspicli.dll". 
+"Задание 1.exe" (Win32). Загружено "C:\Windows\SysWOW64\cryptbase.dll". 
+"Задание 1.exe" (Win32). Загружено "C:\Windows\SysWOW64\bcryptprimitives.dll". 
+"Задание 1.exe" (Win32). Загружено "C:\Windows\SysWOW64\sechost.dll". 
+Поток 0x21cc завершился с кодом 0 (0x0).
+Поток 0x3f60 завершился с кодом 0 (0x0).
+Поток 0x2714 завершился с кодом 0 (0x0).
+Программа "[13272] Задание 1.exe" завершилась с кодом 0 (0x0).
